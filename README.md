@@ -1,6 +1,6 @@
-# yuecai_app_web
+# web
 
-> 约财app web页面，部署在服务端
+> app web页面，部署在服务端
 
 ## Build Setup
 
